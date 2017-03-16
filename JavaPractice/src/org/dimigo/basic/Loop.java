@@ -11,7 +11,7 @@ import java.util.Scanner;
  * org.dimigo.basic
  *    |_ Loop
  *
- * 1. 개요 : 
+ * 1. 개요 : 초간단 게임프로그램
  * 2. 작성일 : 2017. 3. 16.
  * </pre>
  *
