@@ -21,8 +21,7 @@ public class CarTest3 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Car3 car = new Car3();
-		
+		Car3 car = new Car3("현대자동차","제네시스","검정색",225,50000000);
 		System.out.println("<< 자동차 목록 >>");
 		System.out.println("제조사명 : "+car.getCompany());
 		System.out.println("모델명 : "+car.getModel());
